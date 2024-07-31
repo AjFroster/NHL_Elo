@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/NHL_Elo/static/css/main.58457dfc.css",
-    "main.js": "/NHL_Elo/static/js/main.d7062c4f.js",
+    "main.js": "/NHL_Elo/static/js/main.f9fa5ced.js",
     "static/js/453.06673a30.chunk.js": "/NHL_Elo/static/js/453.06673a30.chunk.js",
     "index.html": "/NHL_Elo/index.html",
     "main.58457dfc.css.map": "/NHL_Elo/static/css/main.58457dfc.css.map",
-    "main.d7062c4f.js.map": "/NHL_Elo/static/js/main.d7062c4f.js.map",
+    "main.f9fa5ced.js.map": "/NHL_Elo/static/js/main.f9fa5ced.js.map",
     "453.06673a30.chunk.js.map": "/NHL_Elo/static/js/453.06673a30.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.58457dfc.css",
-    "static/js/main.d7062c4f.js"
+    "static/js/main.f9fa5ced.js"
   ]
 }
