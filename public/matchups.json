@@ -1,0 +1,18 @@
+{
+     "game1": {
+          "team1": "New Jersey Devils",
+          "team2": "Philadelphia Flyers"
+     },
+     "game2": {
+          "team1": "Vancouver Canucks",
+          "team2": "Ottawa Senators"
+     },
+     "game3": {
+          "team1": "San Jose Sharks",
+          "team2": "Detroit Red Wings"
+     },
+     "game4": {
+          "team1": "New York Rangers",
+          "team2": "Pittsburgh Penguins"
+     }
+}
