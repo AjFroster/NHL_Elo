@@ -10,9 +10,22 @@ const Standings = () => {
   useEffect(() => {
     const fetchTeams = async () => {
       try {
-        const response = await fetch("/nhl_teams.json");
-        const data = await response.json();
-        setTeams(data);
+        const response = await fetch("./nhl_teams.json");
+        const new_response = await fetch(
+          "https://nznbw20r0m.execute-api.us-east-1.amazonaws.com/default/NHL_Info_S3_Access"
+        );
+
+        console.log(`new_response = ${new_response}`);
+
+        var data1 = new_response[0];
+        var data2 = new_response[1];
+
+        // const data = await response.json();
+        // const new_data = await new_response.json();
+
+        console.log(`new_data = ${data1}`);
+
+        // setTeams(data);
       } catch (error) {
         console.error("Failed to fetch teams:", error);
       }
