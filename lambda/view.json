@@ -1,0 +1,130 @@
+{
+    "Anaheim Ducks": {
+        "image": "/NHL_Logos/Anaheim.png",
+        "elo": 1342
+    },
+    "Arizona Coyotes": {
+        "image": "/NHL_Logos/Arizona.png",
+        "elo": 1537
+    },
+    "Boston Bruins": {
+        "image": "/NHL_Logos/Boston.png",
+        "elo": 1505
+    },
+    "Buffalo Sabres": {
+        "image": "/NHL_Logos/Buffalo.png",
+        "elo": 1467
+    },
+    "Calgary Flames": {
+        "image": "/NHL_Logos/Calgary.png",
+        "elo": 1430
+    },
+    "Carolina Hurricanes": {
+        "image": "/NHL_Logos/Carolina.png",
+        "elo": 1568
+    },
+    "Chicago Blackhawks": {
+        "image": "/NHL_Logos/Chicago.png",
+        "elo": 1322
+    },
+    "Colorado Avalanche": {
+        "image": "/NHL_Logos/Columbus.png",
+        "elo": 1608
+    },
+    "Columbus Blue Jackets": {
+        "image": "/NHL_Logos/Colorado.png",
+        "elo": 1365
+    },
+    "Dallas Stars": {
+        "image": "/NHL_Logos/Dallas.png",
+        "elo": 1590
+    },
+    "Detroit Red Wings": {
+        "image": "/NHL_Logos/Detroit.png",
+        "elo": 1479
+    },
+    "Edmonton Oilers": {
+        "image": "/NHL_Logos/Edmonton.png",
+        "elo": 1521
+    },
+    "Florida Panthers": {
+        "image": "/NHL_Logos/Florida.png",
+        "elo": 1583
+    },
+    "Los Angeles Kings": {
+        "image": "/NHL_Logos/Los Angeles.png",
+        "elo": 1566
+    },
+    "Minnesota Wild": {
+        "image": "/NHL_Logos/Minnesota.png",
+        "elo": 1464
+    },
+    "Montreal Canadiens": {
+        "image": "/NHL_Logos/Montreal.png",
+        "elo": 1489
+    },
+    "Nashville Predators": {
+        "image": "/NHL_Logos/Nashville.png",
+        "elo": 1544
+    },
+    "New Jersey Devils": {
+        "image": "/NHL_Logos/New Jersey.png",
+        "elo": 1507
+    },
+    "New York Islanders": {
+        "image": "/NHL_Logos/NY Islanders.png",
+        "elo": 1506
+    },
+    "New York Rangers": {
+        "image": "/NHL_Logos/NY Rangers.png",
+        "elo": 1578
+    },
+    "Ottawa Senators": {
+        "image": "/NHL_Logos/Ottawa.png",
+        "elo": 1415
+    },
+    "Philadelphia Flyers": {
+        "image": "/NHL_Logos/Philadelphia.png",
+        "elo": 1557
+    },
+    "Pittsburgh Penguins": {
+        "image": "/NHL_Logos/Pittsburgh.png",
+        "elo": 1498
+    },
+    "San Jose Sharks": {
+        "image": "/NHL_Logos/San Jose.png",
+        "elo": 1214
+    },
+    "Seattle Kraken": {
+        "image": "/NHL_Logos/Seattle.png",
+        "elo": 1435
+    },
+    "St. Louis Blues": {
+        "image": "/NHL_Logos/St. Louis.png",
+        "elo": 1537
+    },
+    "Tampa Bay Lightning": {
+        "image": "/NHL_Logos/Tampa Bay.png",
+        "elo": 1530
+    },
+    "Toronto Maple Leafs": {
+        "image": "/NHL_Logos/Toronto.png",
+        "elo": 1540
+    },
+    "Vancouver Canucks": {
+        "image": "/NHL_Logos/Vancouver.png",
+        "elo": 1574
+    },
+    "Vegas Golden Knights": {
+        "image": "/NHL_Logos/Vegas.png",
+        "elo": 1510
+    },
+    "Washington Capitals": {
+        "image": "/NHL_Logos/Washington.png",
+        "elo": 1537
+    },
+    "Winnipeg Jets": {
+        "image": "/NHL_Logos/Winnipeg.png",
+        "elo": 1581
+    }
+}
