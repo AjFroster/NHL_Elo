@@ -8,24 +8,27 @@ const Standings = () => {
   });
 
   useEffect(() => {
+    console.log("Component mounted or updated.");
+
     const fetchTeams = async () => {
       try {
-        const response = await fetch("./nhl_teams.json");
-        const new_response = await fetch(
+        const response = await fetch(
           "https://nznbw20r0m.execute-api.us-east-1.amazonaws.com/default/NHL_Info_S3_Access"
         );
+        if (!response.ok) {
+          throw new Error(`HTTP error! Status: ${response.status}`);
+        }
 
-        console.log(`new_response = ${new_response}`);
+        let contentBody = await response.text();
+        const jsonArray = JSON.parse(contentBody);
+        const teams = jsonArray[0];
+        const matches = jsonArray[1];
 
-        var data1 = new_response[0];
-        var data2 = new_response[1];
+        // console.log(
+        //   `Response Status: ${response.status}\nBody: ${contentBody}`
+        // );
 
-        // const data = await response.json();
-        // const new_data = await new_response.json();
-
-        console.log(`new_data = ${data1}`);
-
-        // setTeams(data);
+        setTeams(teams);
       } catch (error) {
         console.error("Failed to fetch teams:", error);
       }
@@ -52,6 +55,8 @@ const Standings = () => {
     setSortConfig({ key, direction });
   };
 
+  console.log(teams);
+
   return (
     <div>
       <h1>NHL Elo Standings</h1>
@@ -70,9 +75,9 @@ const Standings = () => {
               <td>{teamDetails.elo}</td>
               <td>
                 <img
-                  src={teamDetails.image}
+                  src={process.env.PUBLIC_URL + teamDetails.image}
                   alt={`${teamName} logo`}
-                  style={{ width: "50px", height: "50px" }}
+                  style={{ width: "30px", height: "30px" }}
                 />
               </td>
             </tr>

@@ -1,130 +1,130 @@
 {
      "Anaheim Ducks": {
-          "image": "./NHL_Logos/Anaheim.png",
+          "image": "/NHL_Logos/Anaheim.png",
           "elo": 1500
      },
      "Arizona Coyotes": {
-          "image": "./NHL_Logos/Arizona.png",
+          "image": "/NHL_Logos/Arizona.png",
           "elo": 1500
      },
      "Boston Bruins": {
-          "image": "./NHL_Logos/Boston.png",
+          "image": "/NHL_Logos/Boston.png",
           "elo": 1500
      },
      "Buffalo Sabres": {
-          "image": "./NHL_Logos/Buffalo.png",
+          "image": "/NHL_Logos/Buffalo.png",
           "elo": 1500
      },
      "Calgary Flames": {
-          "image": "./NHL_Logos/Calgary.png",
+          "image": "/NHL_Logos/Calgary.png",
           "elo": 1500
      },
      "Carolina Hurricanes": {
-          "image": "./NHL_Logos/Carolina.png",
+          "image": "/NHL_Logos/Carolina.png",
           "elo": 1500
      },
      "Chicago Blackhawks": {
-          "image": "./NHL_Logos/Chicago.png",
+          "image": "/NHL_Logos/Chicago.png",
           "elo": 1500
      },
      "Colorado Avalanche": {
-          "image": "./NHL_Logos/Columbus.png",
+          "image": "/NHL_Logos/Columbus.png",
           "elo": 1500
      },
      "Columbus Blue Jackets": {
-          "image": "./NHL_Logos/Colorado.png",
+          "image": "/NHL_Logos/Colorado.png",
           "elo": 1500
      },
      "Dallas Stars": {
-          "image": "./NHL_Logos/Dallas.png",
+          "image": "/NHL_Logos/Dallas.png",
           "elo": 1500
      },
      "Detroit Red Wings": {
-          "image": "./NHL_Logos/Detroit.png",
+          "image": "/NHL_Logos/Detroit.png",
           "elo": 1500
      },
      "Edmonton Oilers": {
-          "image": "./NHL_Logos/Edmonton.png",
+          "image": "/NHL_Logos/Edmonton.png",
           "elo": 1500
      },
      "Florida Panthers": {
-          "image": "./NHL_Logos/Florida.png",
+          "image": "/NHL_Logos/Florida.png",
           "elo": 1500
      },
      "Los Angeles Kings": {
-          "image": "./NHL_Logos/Los Angeles.png",
+          "image": "/NHL_Logos/Los Angeles.png",
           "elo": 1500
      },
      "Minnesota Wild": {
-          "image": "./NHL_Logos/Minnesota.png",
+          "image": "/NHL_Logos/Minnesota.png",
           "elo": 1500
      },
      "Montreal Canadiens": {
-          "image": "./NHL_Logos/Montreal.png",
+          "image": "/NHL_Logos/Montreal.png",
           "elo": 1500
      },
      "Nashville Predators": {
-          "image": "./NHL_Logos/Nashville.png",
+          "image": "/NHL_Logos/Nashville.png",
           "elo": 1500
      },
      "New Jersey Devils": {
-          "image": "./NHL_Logos/New Jersey.png",
+          "image": "/NHL_Logos/New Jersey.png",
           "elo": 1500
      },
      "New York Islanders": {
-          "image": "./NHL_Logos/NY Islanders.png",
+          "image": "/NHL_Logos/NY Islanders.png",
           "elo": 1500
      },
      "New York Rangers": {
-          "image": "./NHL_Logos/NY Rangers.png",
+          "image": "/NHL_Logos/NY Rangers.png",
           "elo": 1500
      },
      "Ottawa Senators": {
-          "image": "./NHL_Logos/Ottawa.png",
+          "image": "/NHL_Logos/Ottawa.png",
           "elo": 1500
      },
      "Philadelphia Flyers": {
-          "image": "./NHL_Logos/Philadelphia.png",
+          "image": "/NHL_Logos/Philadelphia.png",
           "elo": 1500
      },
      "Pittsburgh Penguins": {
-          "image": "./NHL_Logos/Pittsburgh.png",
+          "image": "/NHL_Logos/Pittsburgh.png",
           "elo": 1500
      },
      "San Jose Sharks": {
-          "image": "./NHL_Logos/San Jose.png",
+          "image": "/NHL_Logos/San Jose.png",
           "elo": 1500
      },
      "Seattle Kraken": {
-          "image": "./NHL_Logos/Seattle.png",
+          "image": "/NHL_Logos/Seattle.png",
           "elo": 1500
      },
      "St. Louis Blues": {
-          "image": "./NHL_Logos/St. Louis.png",
+          "image": "/NHL_Logos/St. Louis.png",
           "elo": 1500
      },
      "Tampa Bay Lightning": {
-          "image": "./NHL_Logos/Tampa Bay.png",
+          "image": "/NHL_Logos/Tampa Bay.png",
           "elo": 1500
      },
      "Toronto Maple Leafs": {
-          "image": "./NHL_Logos/Toronto.png",
+          "image": "/NHL_Logos/Toronto.png",
           "elo": 1500
      },
      "Vancouver Canucks": {
-          "image": "./NHL_Logos/Vancouver.png",
+          "image": "/NHL_Logos/Vancouver.png",
           "elo": 1500
      },
      "Vegas Golden Knights": {
-          "image": "./NHL_Logos/Vegas.png",
+          "image": "/NHL_Logos/Vegas.png",
           "elo": 1500
      },
      "Washington Capitals": {
-          "image": "./NHL_Logos/Washington.png",
+          "image": "/NHL_Logos/Washington.png",
           "elo": 1500
      },
      "Winnipeg Jets": {
-          "image": "./NHL_Logos/Winnipeg.png",
+          "image": "/NHL_Logos/Winnipeg.png",
           "elo": 1600
      }
 }
